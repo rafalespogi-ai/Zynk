@@ -1,0 +1,5 @@
+{
+  "name": "Public Message Board",
+  "description": "Isang public message board na may real-time database gamit ang Firebase Firestore.",
+  "requestFramePermissions": []
+}
